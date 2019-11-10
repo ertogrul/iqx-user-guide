@@ -108,17 +108,17 @@ Example circuits
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=dda7fb160013ea06bc75d0204439c9a6&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-570b68405ba63ca75c724d3f40aa2010.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=dda7fb160013ea06bc75d0204439c9a6&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/570b68405ba63ca75c724d3f40aa2010?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-570b68405ba63ca75c724d3f40aa2010.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/570b68405ba63ca75c724d3f40aa2010?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **DJ N=3 Constant**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=1f234d4750fe47817393d8e1c8f8943d&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-4568159e2e0816fb088fec7ee6970100.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=1f234d4750fe47817393d8e1c8f8943d&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/4568159e2e0816fb088fec7ee6970100?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-4568159e2e0816fb088fec7ee6970100.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/4568159e2e0816fb088fec7ee6970100?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
    
 
-.. |image0| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/interferencex663kgbfsoc1sjor.jpg
+.. |image0| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/interferencex663kgbfsoc1sjor.jpg?raw=true
 

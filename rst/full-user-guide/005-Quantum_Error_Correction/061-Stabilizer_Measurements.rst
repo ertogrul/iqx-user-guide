@@ -59,137 +59,137 @@ When we ran these experiments we got 
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=618bfcf17927bad8e5a5f8d37568772d&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-0ef8d525ddb9f739bb8fb4cb4c9d0b81.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=618bfcf17927bad8e5a5f8d37568772d&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/0ef8d525ddb9f739bb8fb4cb4c9d0b81?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-0ef8d525ddb9f739bb8fb4cb4c9d0b81.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/0ef8d525ddb9f739bb8fb4cb4c9d0b81?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 0001**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=5cba20db95acffdf97bf95af4f253de8&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-7bf1fe8b112a27f1defdd1797e531f4e.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=5cba20db95acffdf97bf95af4f253de8&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/7bf1fe8b112a27f1defdd1797e531f4e?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-7bf1fe8b112a27f1defdd1797e531f4e.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/7bf1fe8b112a27f1defdd1797e531f4e?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 0010**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e356856b01d8bc9f8db0d3edced40ec1&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-ac12517d7526a77d19ce104d971ed710.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e356856b01d8bc9f8db0d3edced40ec1&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/ac12517d7526a77d19ce104d971ed710?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-ac12517d7526a77d19ce104d971ed710.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/ac12517d7526a77d19ce104d971ed710?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 0011**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=35cfa432f306d500aa85941a932318bf&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-86e01da97076b98d2319178fd250c14b.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=35cfa432f306d500aa85941a932318bf&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/86e01da97076b98d2319178fd250c14b?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-86e01da97076b98d2319178fd250c14b.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/86e01da97076b98d2319178fd250c14b?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 0100**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=35cfa432f306d500aa85941a93421b6f&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-4568159e2e0816fb088fec7ee697a61d.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=35cfa432f306d500aa85941a93421b6f&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/4568159e2e0816fb088fec7ee697a61d?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-4568159e2e0816fb088fec7ee697a61d.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/4568159e2e0816fb088fec7ee697a61d?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 0101**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=9d8a5f01839f380c33855ba11714ad18&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-0ef8d525ddb9f739bb8fb4cb4c9f395e.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=9d8a5f01839f380c33855ba11714ad18&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/0ef8d525ddb9f739bb8fb4cb4c9f395e?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-0ef8d525ddb9f739bb8fb4cb4c9f395e.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/0ef8d525ddb9f739bb8fb4cb4c9f395e?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 0110**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=618bfcf17927bad8e5a5f8d375b37f29&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-c1908bfce53e5d26b810465dbb768bbb.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=618bfcf17927bad8e5a5f8d375b37f29&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/c1908bfce53e5d26b810465dbb768bbb?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-c1908bfce53e5d26b810465dbb768bbb.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/c1908bfce53e5d26b810465dbb768bbb?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 0111**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=c7177d58a05920ca438c872f1ce253b7&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-7cf716ef5c56be1df8419ec1f2051ebe.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=c7177d58a05920ca438c872f1ce253b7&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/7cf716ef5c56be1df8419ec1f2051ebe?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-7cf716ef5c56be1df8419ec1f2051ebe.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/7cf716ef5c56be1df8419ec1f2051ebe?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 1000**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=deb1f2aa1f7c5718bfdb4029eb67c200&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-9d173b5b4a53131382b97843d2fda623.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=deb1f2aa1f7c5718bfdb4029eb67c200&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/9d173b5b4a53131382b97843d2fda623?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-9d173b5b4a53131382b97843d2fda623.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/9d173b5b4a53131382b97843d2fda623?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 1001**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=618bfcf17927bad8e5a5f8d375c82131&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-570b68405ba63ca75c724d3f40ab48c2.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=618bfcf17927bad8e5a5f8d375c82131&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/570b68405ba63ca75c724d3f40ab48c2?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-570b68405ba63ca75c724d3f40ab48c2.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/570b68405ba63ca75c724d3f40ab48c2?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 1010**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=c495ddc03a0d87c9c4c3a9b31a145813&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-0eb40f5d1eed7b2d8fd23c2c8774d0b0.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=c495ddc03a0d87c9c4c3a9b31a145813&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/0eb40f5d1eed7b2d8fd23c2c8774d0b0?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-0eb40f5d1eed7b2d8fd23c2c8774d0b0.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/0eb40f5d1eed7b2d8fd23c2c8774d0b0?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 1011**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=7ce6f28163171c882dc7228f080ca3a1&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-6769d2329c7fb8be2514f419db59240f.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=7ce6f28163171c882dc7228f080ca3a1&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/6769d2329c7fb8be2514f419db59240f?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-6769d2329c7fb8be2514f419db59240f.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/6769d2329c7fb8be2514f419db59240f?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 1100**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=9d8a5f01839f380c33855ba11789cc51&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-9d173b5b4a53131382b97843d2fc0d75.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=9d8a5f01839f380c33855ba11789cc51&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/9d173b5b4a53131382b97843d2fc0d75?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-9d173b5b4a53131382b97843d2fc0d75.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/9d173b5b4a53131382b97843d2fc0d75?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 1101**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=5cba20db95acffdf97bf95af4fc5c23c&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-c1908bfce53e5d26b810465dbb758199.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=5cba20db95acffdf97bf95af4fc5c23c&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/c1908bfce53e5d26b810465dbb758199?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-c1908bfce53e5d26b810465dbb758199.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/c1908bfce53e5d26b810465dbb758199?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 1110**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=b2d815e741f0b820bd5b93a583b3bf93&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-7bf1fe8b112a27f1defdd1797e5335e7.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=b2d815e741f0b820bd5b93a583b3bf93&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/7bf1fe8b112a27f1defdd1797e5335e7?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-7bf1fe8b112a27f1defdd1797e5335e7.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/7bf1fe8b112a27f1defdd1797e5335e7?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette Z 1111**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=84becc47be891676e7ddc04e8760069c&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-4568159e2e0816fb088fec7ee697b2b1.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=84becc47be891676e7ddc04e8760069c&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/4568159e2e0816fb088fec7ee697b2b1?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-4568159e2e0816fb088fec7ee697b2b1.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/4568159e2e0816fb088fec7ee697b2b1?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Plaquette X +-+-**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=b5a0e7376ded40cd7dc1022e777c3e7a&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-ac12517d7526a77d19ce104d971e4e4c.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=b5a0e7376ded40cd7dc1022e777c3e7a&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/ac12517d7526a77d19ce104d971e4e4c?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-ac12517d7526a77d19ce104d971e4e4c.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/ac12517d7526a77d19ce104d971e4e4c?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 
-.. |image0| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/PlaquetteWebExp18626ul21g1ra4i.png
+.. |image0| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/PlaquetteWebExp18626ul21g1ra4i.png?raw=true
 

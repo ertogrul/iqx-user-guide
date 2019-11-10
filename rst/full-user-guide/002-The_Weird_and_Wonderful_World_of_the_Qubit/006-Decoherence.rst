@@ -81,4 +81,4 @@ the years. Here is a graph depicting :math:`T_2` versus time. 
 
 |image0|
 
-.. |image0| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/T2h1lc19xmqrdlsor.png
+.. |image0| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/T2h1lc19xmqrdlsor.png?raw=true
