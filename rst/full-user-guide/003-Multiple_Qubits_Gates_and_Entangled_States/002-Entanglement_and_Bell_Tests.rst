@@ -181,50 +181,50 @@ both ideal and realistic parameters). 
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=479450d7f0d95a28e4fa155576a9bcbd&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-512686ae13a97aaed71304b5d814465c.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=479450d7f0d95a28e4fa155576a9bcbd&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/512686ae13a97aaed71304b5d814465c?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-512686ae13a97aaed71304b5d814465c.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/512686ae13a97aaed71304b5d814465c?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Bell State ZW-Measurement**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e21164be4db4b6f5698f254a30184862&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-95469a8631bfe86cdf55b0a254df7c4b.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e21164be4db4b6f5698f254a30184862&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/95469a8631bfe86cdf55b0a254df7c4b?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-95469a8631bfe86cdf55b0a254df7c4b.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/95469a8631bfe86cdf55b0a254df7c4b?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Bell State ZV-Measurement**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e21164be4db4b6f5698f254a30191fac&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-6769d2329c7fb8be2514f419db538ac5.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e21164be4db4b6f5698f254a30191fac&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/6769d2329c7fb8be2514f419db538ac5?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-6769d2329c7fb8be2514f419db538ac5.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/6769d2329c7fb8be2514f419db538ac5?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Bell State XW-Measurement**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e21164be4db4b6f5698f254a301a9363&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-7bf1fe8b112a27f1defdd1797e5084ae.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e21164be4db4b6f5698f254a301a9363&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/7bf1fe8b112a27f1defdd1797e5084ae?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-7bf1fe8b112a27f1defdd1797e5084ae.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/7bf1fe8b112a27f1defdd1797e5084ae?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Bell State XV-Measurement**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=479450d7f0d95a28e4fa155576ae55fb&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-95469a8631bfe86cdf55b0a254df8b59.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=479450d7f0d95a28e4fa155576ae55fb&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/95469a8631bfe86cdf55b0a254df8b59?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-95469a8631bfe86cdf55b0a254df8b59.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/95469a8631bfe86cdf55b0a254df8b59?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 
 
-.. |image0| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-01%20at%2011.01.47%20PMp7ywz1fvomuhxgvi.png
-.. |image1| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-01%20at%2011.58.25%20PM26fjth9ka5nah5mi.png
-.. |image2| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-02%20at%2012.00.28%20AMh9cbwavb76uyds4i.png
-.. |image3| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-02%20at%2012.05.08%20AM6dngnqakg0wo2yb9.png
-.. |image4| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-02%20at%209.08.24%20PMxpufzfh3hxagu8fr.png
-.. |image5| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-03%20at%2012.31.29%20AMggfwizai6qen4s4i.png
-.. |image6| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-03%20at%2012.32.31%20AMo3gyvxtqqepzaor.png
-.. |image7| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-03%20at%201.15.27%20AMj7c275k02qyf1or.png
-.. |image8| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-03%20at%201.15.37%20AMbfusp4upndrc0udi.png
+.. |image0| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/p7ywz1fvomuhxgvi.png?raw=true
+.. |image1| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/26fjth9ka5nah5mi.png?raw=true
+.. |image2| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/h9cbwavb76uyds4i.png?raw=true
+.. |image3| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/6dngnqakg0wo2yb9.png?raw=true
+.. |image4| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/xpufzfh3hxagu8fr.png?raw=true
+.. |image5| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/ggfwizai6qen4s4i.png?raw=true
+.. |image6| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/o3gyvxtqqepzaor.png?raw=true
+.. |image7| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/j7c275k02qyf1or.png?raw=true
+.. |image8| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/bfusp4upndrc0udi.png?raw=true
 

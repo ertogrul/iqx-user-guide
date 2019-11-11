@@ -173,38 +173,38 @@ Example circuits
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=ac042c16f1d2bf7312503e842e7ffbcc&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-d9c40f27d67d4bf722209faa34a8fd1c.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=ac042c16f1d2bf7312503e842e7ffbcc&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/d9c40f27d67d4bf722209faa34a8fd1c?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-d9c40f27d67d4bf722209faa34a8fd1c.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/d9c40f27d67d4bf722209faa34a8fd1c?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Grover N=2 A=01**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=34bf6d8078127a4cbb85dcba18d71547&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-0eb40f5d1eed7b2d8fd23c2c8771e941.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=34bf6d8078127a4cbb85dcba18d71547&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/0eb40f5d1eed7b2d8fd23c2c8771e941?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-0eb40f5d1eed7b2d8fd23c2c8771e941.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/0eb40f5d1eed7b2d8fd23c2c8771e941?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Grover N=2 A=10**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e554e35d344f1e346c3b7cd30c5d1939&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-ac12517d7526a77d19ce104d971bbd01.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=e554e35d344f1e346c3b7cd30c5d1939&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/ac12517d7526a77d19ce104d971bbd01?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-ac12517d7526a77d19ce104d971bbd01.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/ac12517d7526a77d19ce104d971bbd01?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
 | **Grover N=2 A=11**
 
 .. raw:: html
 
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=764735cc22581811f9f382d3b3c644f0&sharedCode=true" target="_parent"><img src="https://dal.objectstorage.open.softlayer.com/v1/AUTH_42263efc45184c7ca4742512588a1942/codes/code-cab6cbd8d09fa9a72bd276d9c2c22376.png" style="width: 100%; max-width: 600px;"></a>
-   <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=764735cc22581811f9f382d3b3c644f0&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
+   <a href="https://quantum-computing.ibm.com/composer/cab6cbd8d09fa9a72bd276d9c2c22376?shared=true" target="_parent"><img src="https://github.com/Qiskit/iqx-user-guide/blob/master/images/codes/code-cab6cbd8d09fa9a72bd276d9c2c22376.png?raw=true" style="width: 100%; max-width: 600px;"></a>
+   <a href="https://quantum-computing.ibm.com/composer/cab6cbd8d09fa9a72bd276d9c2c22376?shared=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 
 
-.. |image0| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Picture1zdnvcphw1b07wrk9.png
-.. |image1| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Picture15h8emcr7mucy2e29.png
-.. |image2| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Picture1fj26kfen5xrsh5mi.png
-.. |image3| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Picture1j1gz5ve3zwyd5cdi.png
-.. |image4| image:: https://dal.objectstorage.open.softlayer.com/v1/AUTH_039c3bf6e6e54d76b8e66152e2f87877/images-classroom/Screen%20Shot%202016-05-04%20at%201.50.25%20AM0qbyzkc53sj1yvi.png
+.. |image0| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/Picture1zdnvcphw1b07wrk9.png?raw=true
+.. |image1| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/Picture15h8emcr7mucy2e29.png?raw=true
+.. |image2| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/Picture1fj26kfen5xrsh5mi.png?raw=true
+.. |image3| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/Picture1j1gz5ve3zwyd5cdi.png?raw=true
+.. |image4| image:: https://github.com/Qiskit/iqx-user-guide/blob/master/images/images-classroom/0qbyzkc53sj1yvi.png?raw=true
 
