@@ -26,7 +26,7 @@ for exp_index in exp_vector:
 
 # Execute the circuits
 shots = 1024
-job = execute(circuits, backend = Aer.get_backend('qasm_simulator'), shots=shots, seed=8)
+job = execute(circuits, backend = Aer.get_backend('qasm_simulator'), shots=shots, seed_simulator=8)
 result = job.result()
 
 # Plot the result
